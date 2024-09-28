@@ -23,7 +23,7 @@ Estou motivada a fazer este curso por várias razões:
   - Acredito que a tecnologia tem o poder de **transformar vidas** e **otimizar processos** em diversas áreas.
 
 - **Desenvolvimento de Habilidades Práticas:**
-  - Estou ansiosa para participar de projetos práticos que me permitam aplicar o que aprender de maneira concreta.
+  - Estou ansiosa para participar de projetos práticos que me permitam aplicar o que aprendi de maneira concreta.
 
 ## Objetivos Futuros
 
@@ -35,4 +35,4 @@ Estou motivada a fazer este curso por várias razões:
 
 ## Conclusão
 
-Estou animada para iniciar esta jornada de aprendizado e descoberta. Estou comprometida em absorver o máximo de conhecimento possível e aplicar o que aprender para fazer a diferença na área de tecnologia.
+Estou animada para iniciar esta jornada de aprendizado e descoberta. Estou comprometida em absorver o máximo de conhecimento possível e aplicar o que aprendi para fazer a diferença na área de tecnologia.
